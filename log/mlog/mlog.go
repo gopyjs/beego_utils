@@ -1,7 +1,7 @@
 package mlog
 
 import (
-	"github.com/MDGSF/utils/log"
+	"github.com/gopyjs/utils/log"
 )
 
 type MLogger struct {

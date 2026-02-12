@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/MDGSF/utils/container/ring"
+	"github.com/gopyjs/utils/container/ring"
 )
 
 func main() {

@@ -27,7 +27,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/MDGSF/utils"
+	"github.com/gopyjs/utils"
 )
 
 func TestExecCopy1(t *testing.T) {

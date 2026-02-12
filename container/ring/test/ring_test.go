@@ -26,7 +26,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/MDGSF/utils/container/ring"
+	"github.com/gopyjs/utils/container/ring"
 )
 
 func dump(r *ring.Ring) {

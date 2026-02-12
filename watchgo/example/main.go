@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/MDGSF/utils/watchgo"
+	"github.com/gopyjs/utils/watchgo"
 )
 
 func main() {

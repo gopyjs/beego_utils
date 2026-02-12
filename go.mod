@@ -1,4 +1,4 @@
-module github.com/MDGSF/utils
+module github.com/gopyjs/utils
 
 go 1.13
 

@@ -1,6 +1,6 @@
 package mlog
 
-import "github.com/MDGSF/utils/log"
+import "github.com/gopyjs/utils/log"
 
 var std = New()
 

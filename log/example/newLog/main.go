@@ -4,7 +4,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/MDGSF/utils/log"
+	"github.com/gopyjs/utils/log"
 )
 
 func main() {

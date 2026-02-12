@@ -29,10 +29,10 @@ fmt.Println("outf =", outf) // 5.2
 $ go test -bench=.
 goos: linux
 goarch: amd64
-pkg: github.com/MDGSF/utils/ubit
+pkg: github.com/gopyjs/utils/ubit
 Benchmark_ToBinaryString-8               6593515               179 ns/op
 Benchmark_ByteToBinaryBytes-8           100000000               10.0 ns/op
 PASS
-ok      github.com/MDGSF/utils/ubit     2.385s
+ok      github.com/gopyjs/utils/ubit     2.385s
 ```
 

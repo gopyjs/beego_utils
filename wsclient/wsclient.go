@@ -32,7 +32,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/MDGSF/utils/log"
+	"github.com/gopyjs/utils/log"
 	"github.com/gorilla/websocket"
 	"golang.org/x/net/proxy"
 )

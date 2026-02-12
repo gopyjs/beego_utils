@@ -11,8 +11,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/MDGSF/utils"
-	"github.com/MDGSF/utils/log"
+	"github.com/gopyjs/utils"
+	"github.com/gopyjs/utils/log"
 )
 
 type RotateWriter struct {

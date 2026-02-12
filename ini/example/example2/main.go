@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/MDGSF/utils/ini"
+	"github.com/gopyjs/utils/ini"
 )
 
 func main() {

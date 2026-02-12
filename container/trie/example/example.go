@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/MDGSF/utils/container/trie"
+	"github.com/gopyjs/utils/container/trie"
 )
 
 func main() {

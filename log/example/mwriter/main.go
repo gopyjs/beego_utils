@@ -3,9 +3,9 @@ package main
 import (
 	"time"
 
-	"github.com/MDGSF/utils/log"
+	"github.com/gopyjs/utils/log"
 
-	"github.com/MDGSF/utils/log/mwriter"
+	"github.com/gopyjs/utils/log/mwriter"
 )
 
 const M3 = 30 * 1024 * 1024

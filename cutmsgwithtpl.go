@@ -25,7 +25,7 @@ package utils
 import (
 	"reflect"
 
-	"github.com/MDGSF/utils/log"
+	"github.com/gopyjs/utils/log"
 )
 
 // CutMsgWithTemplate 根据 tpl 从 msg 中取出数据，放到 result 中

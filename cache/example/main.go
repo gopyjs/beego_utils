@@ -3,8 +3,8 @@ package main
 import (
 	"time"
 
-	"github.com/MDGSF/utils/cache"
-	"github.com/MDGSF/utils/log"
+	"github.com/gopyjs/utils/cache"
+	"github.com/gopyjs/utils/log"
 )
 
 func main() {

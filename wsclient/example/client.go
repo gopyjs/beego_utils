@@ -5,8 +5,8 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/MDGSF/utils/log"
-	"github.com/MDGSF/utils/wsclient"
+	"github.com/gopyjs/utils/log"
+	"github.com/gopyjs/utils/wsclient"
 	"github.com/gorilla/websocket"
 )
 

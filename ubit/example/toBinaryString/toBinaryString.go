@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/MDGSF/utils/ubit"
+	"github.com/gopyjs/utils/ubit"
 )
 
 func main() {

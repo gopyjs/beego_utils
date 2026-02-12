@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/MDGSF/utils/log"
-	"github.com/MDGSF/utils/log/mlog"
+	"github.com/gopyjs/utils/log"
+	"github.com/gopyjs/utils/log/mlog"
 )
 
 func main() {

@@ -26,7 +26,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/MDGSF/utils/leakybucket"
+	"github.com/gopyjs/utils/leakybucket"
 )
 
 /*
